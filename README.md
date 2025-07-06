@@ -34,3 +34,9 @@ The book is a widely used Russian-language guide for learning C++ from scratch. 
 - Templates and exception handling
 
 These examples serve as both practice and reference, and will be gradually updated to follow modern C++ standards (C++17 and above).
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
